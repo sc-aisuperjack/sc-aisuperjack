@@ -1,6 +1,6 @@
 # AI Superjack, Stefanos Cunning
 
-AI engineer and senior full-stack developer building production-style systems across agentic AI, RAG, MCP, MongoDB intelligence, data-driven workflows, and enterprise application architecture.
+AI engineer and senior full-stack developer building production-style systems across responsible AI orchestration, agentic AI, RAG, MCP, MongoDB intelligence, data-driven workflows, contact-centre automation, and enterprise application architecture.
 
 My work focuses on practical AI engineering rather than hype. I build systems that are structured, testable, grounded, and easy to review, with an emphasis on real architecture patterns such as orchestration, document ingestion, retrieval pipelines, provider abstraction, evaluation, traceable outputs, and full-stack product delivery.
 
@@ -12,6 +12,8 @@ This portfolio shows how modern AI and software systems should actually be built
 
 The main themes across my repositories are:
 
+- responsible AI orchestration, guardrails, evaluations, and release governance
+- contact-centre and customer-service AI workflow simulation
 - agentic orchestration and workflow design
 - retrieval-augmented generation with grounded answers
 - MCP and tool-ready architectures
@@ -25,6 +27,29 @@ The main themes across my repositories are:
 This is not a collection of toy chatbots. It is a portfolio of applied AI engineering, product architecture, and practical business intelligence work.
 
 ## Featured repositories
+
+### [utility-customer-service-ai-orchestrator](https://github.com/sc-aisuperjack/utility-customer-service-ai-orchestrator)
+
+Responsible Contact-Centre AI Lab for safe customer-service AI orchestration in a regulated utility-style environment.
+
+This project demonstrates how a production-style customer-service AI system can be structured, tested, observed, and released safely. It combines FastAPI orchestration, versioned assistant instructions, local deterministic model behaviour, optional AWS Bedrock support, local RAG, mocked business tools, input and output guardrails, Amazon Lex-style Lambda fulfilment, Amazon Connect-style handoff routing, golden-case evaluations, CI validation, Docker quick start, prompt-version comparison, and journey-level observability reports.
+
+The project is designed as a fictional public-safe demo. It does not use real customer data, real supplier policy, real payment systems, or production credentials.
+
+Core concepts:
+
+- responsible AI orchestration
+- regulated customer-service workflows
+- guardrails for vulnerability, complaints, emergencies, financial actions, PII, and prompt injection
+- retrieval from approved local knowledge articles
+- mocked CRM, billing, meter, appointment, payment, and complaint tools
+- Amazon Lex-style and Connect-style contact-centre patterns
+- optional AWS Bedrock provider abstraction
+- golden-case evaluations and regression tests
+- prompt-version comparison for release governance
+- local observability and journey metrics reporting
+- GitHub Actions CI validation
+- Docker and Docker Compose quick start
 
 ### [ai-superjack-foundry](https://github.com/sc-aisuperjack/ai-superjack-foundry)
 
@@ -249,6 +274,11 @@ My public work regularly uses:
 - .NET Web API
 - Angular
 - structured API contracts and service layers
+- AWS Bedrock patterns
+- Amazon Lex and Amazon Connect-style workflows
+- GitHub Actions
+- Docker and Docker Compose
+- evaluation and observability reporting
 
 ## Live demos
 
