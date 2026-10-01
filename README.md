@@ -26,7 +26,7 @@ I currently work as a **Lead AI Prompt Engineer** on enterprise conversational A
 
 Alongside that work, I am building AI Superjack's product portfolio:
 
-- **[Vozarra™](https://vozarra.com)** — flagship voice-first AI Solutions Architect and executive layer.
+- **[Vozarra™](https://vozarra.com)** — flagship voice-first AI Solutions Architect. The current MVP covers voice discovery, structured requirements, generated architecture and a simulated runtime; the broader executive layer is roadmap.
 - **[Epic Edge™](https://aiepicedge.com)** — enterprise AI implementation and signal-backed GTM capability.
 - **[Legacy Voice™](https://legacyvoice.ai)** — AI-powered preservation of stories, memories and voice.
 
